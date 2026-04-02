@@ -1,0 +1,46 @@
+{E:/Digital design and sythesis/Verilog/KTMT/testbench/mem.v} {1 {vlog -work work -vopt -stats=none {E:/Digital design and sythesis/Verilog/KTMT/testbench/mem.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module mem_stage
+
+Top level modules:
+	mem_stage
+
+} {} {}} {E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_mem.v} {1 {vlog -work work -vopt -stats=none {E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_mem.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb_mem_stage
+
+Top level modules:
+	tb_mem_stage
+
+} {} {}} {E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_if.v} {1 {vlog -work work -vopt -stats=none {E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_if.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb_if_stage
+
+Top level modules:
+	tb_if_stage
+
+} {} {}} {E:/Digital design and sythesis/Verilog/KTMT/testbench/instruction_mem.v} {1 {vlog -work work -vopt -stats=none {E:/Digital design and sythesis/Verilog/KTMT/testbench/instruction_mem.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module instruction_memory
+
+Top level modules:
+	instruction_memory
+
+} {} {}} {E:/Digital design and sythesis/Verilog/KTMT/testbench/data_mem.v} {1 {vlog -work work -vopt -stats=none {E:/Digital design and sythesis/Verilog/KTMT/testbench/data_mem.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} {E:/Digital design and sythesis/Verilog/KTMT/testbench/if_stage.v} {1 {vlog -work work -vopt -stats=none {E:/Digital design and sythesis/Verilog/KTMT/testbench/if_stage.v}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module if_stage
+-- Compiling module pc
+-- Compiling module mux
+-- Compiling module adder
+
+Top level modules:
+	if_stage
+
+} {} {}}

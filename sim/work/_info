@@ -1,0 +1,233 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Digital design and sythesis/Verilog/KTMT
+T_opt
+!s110 1775146336
+VaGUYV@5IgkRN_P:[UF2Ug3
+04 11 4 work tb_if_stage fast 0
+=1-6018954e31f6-69ce9560-2f8-2d38
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vadder
+Z2 2E:/Digital design and sythesis/Verilog/KTMT/testbench/if_stage.v
+Z3 !s110 1775146328
+!i10b 1
+!s100 ?gPg_I_5JM3DoZN]jRB@Q0
+Imz<69RLJ^;Vlm@M_1Ge`m0
+Z4 dE:/Digital design and sythesis/Verilog/KTMT/testbench
+Z5 w1775141752
+Z6 8E:/Digital design and sythesis/Verilog/KTMT/testbench/if_stage.v
+Z7 FE:/Digital design and sythesis/Verilog/KTMT/testbench/if_stage.v
+!i122 1
+L0 72 7
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z10 !s108 1775146328.000000
+Z11 !s107 E:/Digital design and sythesis/Verilog/KTMT/testbench/if_stage.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital design and sythesis/Verilog/KTMT/testbench/if_stage.v|
+!i113 0
+Z13 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vdata_memory
+2E:/Digital design and sythesis/Verilog/KTMT/testbench/data_mem.v
+R3
+!i10b 1
+!s100 TZDFhUHN1BD1P6zIGD4UK0
+I3eNcj29n2mg3E7k?Xk:EI2
+R4
+w1775142575
+8E:/Digital design and sythesis/Verilog/KTMT/testbench/data_mem.v
+FE:/Digital design and sythesis/Verilog/KTMT/testbench/data_mem.v
+!i122 0
+L0 10 20
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Digital design and sythesis/Verilog/KTMT/testbench/data_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital design and sythesis/Verilog/KTMT/testbench/data_mem.v|
+!i113 0
+R13
+R1
+vif_stage
+R2
+R3
+!i10b 1
+!s100 5c^miLgQd7XKgia]82@N>0
+I?dM?f7OkQG6L3B1gK1=GP3
+R4
+R5
+R6
+R7
+!i122 1
+L0 1 43
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vinstruction_memory
+2E:/Digital design and sythesis/Verilog/KTMT/testbench/instruction_mem.v
+R3
+!i10b 1
+!s100 0PW0b]HzC@;?eLH^baM:Z3
+I4RF?V0WR`=jC:GSR^kAO?1
+R4
+w1775142574
+8E:/Digital design and sythesis/Verilog/KTMT/testbench/instruction_mem.v
+FE:/Digital design and sythesis/Verilog/KTMT/testbench/instruction_mem.v
+!i122 2
+L0 8 13
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Digital design and sythesis/Verilog/KTMT/testbench/instruction_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital design and sythesis/Verilog/KTMT/testbench/instruction_mem.v|
+!i113 0
+R13
+R1
+vmem_stage
+2E:/Digital design and sythesis/Verilog/KTMT/testbench/mem.v
+R3
+!i10b 1
+!s100 <DO;7YEV^5P4GHeco?YgK1
+Im1@FX^m[dAigO0]iC;jH70
+R4
+w1775141453
+8E:/Digital design and sythesis/Verilog/KTMT/testbench/mem.v
+FE:/Digital design and sythesis/Verilog/KTMT/testbench/mem.v
+!i122 3
+L0 9 17
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Digital design and sythesis/Verilog/KTMT/testbench/mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital design and sythesis/Verilog/KTMT/testbench/mem.v|
+!i113 0
+R13
+R1
+vmux
+R2
+R3
+!i10b 1
+!s100 CeDd[gNYSOz86V:feU1KG0
+IOanbd59zDSHYzY]3995a61
+R4
+R5
+R6
+R7
+!i122 1
+L0 63 8
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vpc
+R2
+R3
+!i10b 1
+!s100 E`SGKlQY7?XXzi[amPab71
+IIabfnjJf[=3IXgL0k3jXb0
+R4
+R5
+R6
+R7
+!i122 1
+L0 45 16
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vtb_if_stage
+2E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_if.v
+R3
+!i10b 1
+!s100 2kWH[0HY>`:S>CA53>I9n1
+IK3N2T?l`?f4mWojen9R3V0
+R4
+w1775146185
+8E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_if.v
+FE:/Digital design and sythesis/Verilog/KTMT/testbench/tb_if.v
+!i122 4
+L0 13 136
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_if.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_if.v|
+!i113 0
+R13
+R1
+vtb_mem_stage
+2E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_mem.v
+R3
+!i10b 1
+!s100 Gh07FTgIMg`IO:eM;1;8R1
+I5AzKU_MBL2_T@19TT]H>V1
+R4
+w1775142830
+8E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_mem.v
+FE:/Digital design and sythesis/Verilog/KTMT/testbench/tb_mem.v
+!i122 5
+L0 8 116
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Digital design and sythesis/Verilog/KTMT/testbench/tb_mem.v|
+!i113 0
+R13
+R1
